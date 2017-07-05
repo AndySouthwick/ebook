@@ -5,14 +5,10 @@ class ThankYou extends Component{
     render(){
         return(
             <Container>
-                <Row>
+                <Row className="bar2">
                     <Col lg="6" xs="10">
-                        here is one col
-
-                    </Col>
-
-                    <Col lg="4" xs="12">
-                        Here is another on thank you bitch
+                       <h2>Thank You</h2>
+                        Please check your email
                     </Col>
 
                 </Row>
