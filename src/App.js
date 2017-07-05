@@ -8,11 +8,13 @@ class App extends Component {
   render() {
 
     return (
-
+        <div>
+    <a href="/thanks">Thank you page</a>
           <Switch>
               <Route exact path="/" component={Landing}/>
               <Route exact path="/thanks" component={ThankYou}/>
           </Switch>
+        </div>
 
     );
   }

@@ -21,7 +21,7 @@ class Landing extends Component{
                                 <input className="infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text" />
                             </div>
                             <div className="infusion-submit">
-                                <Button type="submit" value="Submit" />
+                                <Button type="submit" value="Submit"> Submit</Button>
                             </div>
                         </form>
 
