@@ -9,7 +9,6 @@ class App extends Component {
 
     return (
         <div>
-    <a href="/thanks">Thank you page</a>
           <Switch>
               <Route exact path="/" component={Landing}/>
               <Route exact path="/thanks" component={ThankYou}/>

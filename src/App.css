@@ -1,17 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+body{
+  background: url("./images/bg.png");
+  font-family: 'Titillium Web', sans-serif;
+
+}
+.leftSide{
+  border-radius: 10px;
+  background-color: rgba(29, 30, 31, 0.8);
+  padding: 1em;
+  padding-bottom: 1em;
+  font-size: larger;
+}
+ .leftSide h2{
+  color: #11DACF;
+}
+.rightSide{
+  border-radius: 10px;
+  background-color: rgba(29, 30, 31, 0.8);
+  padding: 1em;
+  padding-top: 1em;
+}
+.rightSide h2{
+  color: #11DACF;
+}
+.middle{
+  padding: 1em;
+}
+.pagecontent{
+  margin-top: 5em;
+  position: relative;
+  width: 100%;
+}
 .App {
   text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
 }
 
 .App-intro {
@@ -21,4 +42,18 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.landing-header{
+  color:blue;
+  font-size: 45px;
+  font-weight:bold;
+}
+.bar2{
+  background-color: rgba(29, 30, 31, 0.72);
+  padding: 1em;
+  color: #ffffff;
+}
+.getitbtn{
+  background-color: #B4FF00;
 }
