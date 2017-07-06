@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import styles from './App.css';
+import CountdownTimer from './CountdownTimer'
 import {Container, Form, FormGroup, Row, Col, Input, Label, Button} from 'reactstrap';
 
 class Landing extends Component{
@@ -9,16 +9,16 @@ class Landing extends Component{
         <div>
 
             <Container className="pagecontent">
+                <CountdownTimer/>
 
 
-
-                <row>
+                <Row className="justify-content-center">
                     <Col xs="12">
                         <h1 className="landing-header">SEVEN DEADLY MISTAKES</h1>
                         <i>The guide that will teach you what you need to know about choosing indicators.</i>
                         <hr/>
                     </Col>
-            </row>
+            </Row>
 
                 <Row className="bar2">
                     <Col lg="4" xs="12" className="leftSide">
