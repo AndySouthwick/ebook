@@ -13,9 +13,9 @@ class Landing extends Component{
 
 
                 <Row className="justify-content-center">
-                    <Col xs="12">
-                        <h1 className="landing-header">SEVEN DEADLY MISTAKES</h1>
-                        <i>The guide that will teach you what you need to know about choosing indicators.</i>
+                    <Col>
+                        <h1 className="landing-header" >SEVEN DEADLY MISTAKES</h1>
+                        <h2 className="center"><i >The guide that will teach you what you need to know about choosing indicators.</i></h2>
                         <hr/>
                     </Col>
             </Row>
