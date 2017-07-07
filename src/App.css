@@ -13,7 +13,7 @@ color:white;
   font-size: larger;
 }
  .leftSide h2{
-  color: #11DACF;
+  color: #008EFD;
 }
 .rightSide{
   border-radius: 10px;
@@ -22,25 +22,25 @@ color:white;
   padding-top: 1em;
 }
 .rightSide h2{
-  color: #11DACF;
+  color: #008EFD;
 }
 .middle{
   padding: 1em;
   position: relative;
-  size: 1000px;
 
 }
 @media only screen and (min-width: 1000px){
   .bookimage{
     width:400px;
     position: absolute;
-    top: -10em;
+    top: -7em;
+    left:-1.5em;
 
   }
 }
 
 .pagecontent{
-  margin-top: 5em;
+  margin-top: 1em;
   position: relative;
   width: 100%;
 }
@@ -74,5 +74,10 @@ color:white;
 .center{
   text-align: center;
 }
+.firstbar{
+  margin:3em;
+}
 
+.bar3{
 
+}

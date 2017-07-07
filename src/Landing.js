@@ -12,20 +12,24 @@ class Landing extends Component{
                 <CountdownTimer/>
 
 
-                <Row className="justify-content-center">
+                <Row className="justify-content-center firstbar">
                     <Col>
-                        <h1 className="landing-header" >SEVEN DEADLY MISTAKES</h1>
+                        <h1 className="landing-header" >SEVEN DEVASTATING MISTAKES</h1>
                         <h2 className="center"><i >The guide that will teach you what you need to know about choosing indicators.</i></h2>
                         <hr/>
                     </Col>
             </Row>
-
+                <Container>
                 <Row className="bar2">
                     <Col lg="4" xs="12" className="leftSide">
-                        <h2> What's in the ebook? </h2><hr/>
-                        Suscipit probatus omittantur quo in. Similique scriptorem vim id, legimus veritus consequuntur no his. Pro ut
-                        eirmod vidisse fierent, lorem interesset ius an, qui te nominavi volutpat disputationi. Ex hinc augue labores vim.
-                        His ad sint autem alterum, ipsum audire aperiam ex mel. Ad nihil malorum detraxit eum. Cu nec docendi salutatus expetendis.
+                        <h2> Why you need this book? </h2><hr/>
+                        <ul>
+                            <li>Why ongoing support and training is critical</li>
+                            <li>Why most systems don't fit your financial ability</li>
+                            <li>Clear entry and exit strategies</li>
+                            <li>Most systems are not specific to a traders needs</li>
+                            <li>Black Box and Robot Trading is a big mistake</li>
+                        </ul>
                     </Col>
                     <Col lg="4" xs="12" className="middle visible-lg" >
                         <img src="./images/book.png" width="100%" className="bookimage"
@@ -57,6 +61,7 @@ class Landing extends Component{
                     </Col>
 
                 </Row>
+                </Container>
             </Container>
         </div>
         )
