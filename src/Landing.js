@@ -27,8 +27,9 @@ class Landing extends Component{
                         eirmod vidisse fierent, lorem interesset ius an, qui te nominavi volutpat disputationi. Ex hinc augue labores vim.
                         His ad sint autem alterum, ipsum audire aperiam ex mel. Ad nihil malorum detraxit eum. Cu nec docendi salutatus expetendis.
                     </Col>
-                    <Col lg="4" xs="12" className="middle" >
-                        <img src="/images/bookimg.png" width="100%"/>
+                    <Col lg="4" xs="12" className="middle visible-lg" >
+                        <img src="./images/book.png" width="100%" className="bookimage"
+                        />
                     </Col>
 
                     <Col lg="4" className="rightSide">
