@@ -19,7 +19,6 @@ color:white;
   border-radius: 10px;
   background-color: rgba(29, 30, 31, 0.8);
   padding: 1em;
-  padding-top: 1em;
 }
 .rightSide h2{
   color: #008EFD;
@@ -79,5 +78,25 @@ color:white;
 }
 
 .bar3{
+padding: 2em;
+  background-color: #ffffff;
+  color: #1d1e1f;
 
+}
+.bar4{
+  color: #008EFD;
+  padding:3em;
+  background-color: rgba(29, 30, 31, 0.8);
+}
+.round{
+  float: left;
+  border-radius: 50%;
+}
+
+alignleft {
+  /* float: left; */
+  margin: 0 1em 1em 0;
+}
+.wrapText {
+  shape-outside: circle();
 }

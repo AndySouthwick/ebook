@@ -5,6 +5,8 @@ import {Container, Form, FormGroup, Row, Col, Input, Label, Button} from 'reacts
 class Landing extends Component{
     render(){
 
+
+
         return(
         <div>
 
@@ -19,6 +21,7 @@ class Landing extends Component{
                         <hr/>
                     </Col>
             </Row>
+            </Container>
                 <Container>
                 <Row className="bar2">
                     <Col lg="4" xs="12" className="leftSide">
@@ -61,8 +64,36 @@ class Landing extends Component{
                     </Col>
 
                 </Row>
+                    <Row className="bar3 justify-content-center">
+                        <h2 className="bg-info">What some of our readers have to say</h2>
+                    </Row>
+                    <Row className="bar3">
+                        <Col lg="6" className="">
+                            <img src="./images/cmb2zh-librato-testimonial-man_02s02s02s02s000000.jpg" alt="" className="wrapText round alignleft"/>
+                            <b>Jonas Kent</b><br/>
+
+                           <i>Creative, W, Entertainment</i><br/>
+
+                            These guys are the best at what they do - they know their stuff. Just reading their various ebooks will be proof enough.
+                        </Col>
+                        <Col lg="6">
+                            <img src="./images/18sf4yd-librato-testimonial-woman.jpg" alt="" className="wrapText round alignleft" />
+                           <b>Jane Doe</b><br/>
+
+                            <i>CEO/Founder, GoodWork Inc.</i><br/>
+
+                            These guys are the best at what they do - they know their stuff. Just reading their various ebooks will be proof enough.
+                        </Col>
+                    </Row>
+                    <Row className="bar4 justify-content-center">
+                        {('\u00A9')}
+                        2017 Win At Day Trading
+                    </Row>
+
                 </Container>
-            </Container>
+
+
+
         </div>
         )
     }
