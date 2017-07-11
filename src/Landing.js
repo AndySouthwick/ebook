@@ -72,10 +72,9 @@ class Landing extends Component{
                             <img src="./images/cmb2zh-librato-testimonial-man_02s02s02s02s000000.jpg" alt="" className="wrapText round alignleft"/>
                             <b>Jonas Kent</b><br/>
 
-                           <i>Creative, W, Entertainment</i><br/>
+                           <i>Josh Bingham</i><br/>
 
-                            These guys are the best at what they do - they know their stuff. Just reading their various ebooks will be proof enough.
-                        </Col>
+                            "Learn the indicators. If you do, you'll never have to worry about money."                        </Col>
                         <Col lg="6">
                             <img src="./images/18sf4yd-librato-testimonial-woman.jpg" alt="" className="wrapText round alignleft" />
                            <b>Jane Doe</b><br/>
