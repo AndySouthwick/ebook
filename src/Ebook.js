@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import {Container, Row, Col, Button} from 'reactstrap';
+import {Container, Row, Col} from 'reactstrap';
 import 'react-file-download'
 
 class Ebook extends Component{
@@ -11,7 +11,7 @@ class Ebook extends Component{
 
             const response = {
 
-                file: 'src/Ebook.js',
+                file: 'images/Ebook.js',
             };
             // server sent the url to the file!
             // now, let's download:
@@ -41,7 +41,7 @@ class Ebook extends Component{
                     <Col lg={{ size: 6, push: 2, pull: 2, offset: 1 }}   xs={{ size: 12}} >
 
 
-                        <h1>Download <a href="" onClick={this.download} >7 Devasataing Mistakes</a></h1>
+                        <h1>Download <a href="" onClick={this.download} >7 Devastating Mistakes</a></h1>
 
                     </Col>
                 </Row>

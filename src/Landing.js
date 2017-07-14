@@ -60,7 +60,7 @@ class Landing extends Component{
                             </div>
                             </FormGroup>
                         </Form>
-
+                            <i>We are sending you our trade of the day as well!</i>
                     </Col>
 
                 </Row>
