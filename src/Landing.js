@@ -31,7 +31,7 @@ class Landing extends Component{
                             <li>Why ongoing help and training is critical to your trading success.</li>
                             <li>You need precise indicators other wise you are gambling.</li>
                             <li>Clear entry and exit strategies</li>
-\                            <li>Why Black Box and Robot Trading is a big mistake</li>
+                         <li>Why Black Box and Robot Trading is a big mistake</li>
                         </ul>
                     </Col>
                     <Col lg="4" xs="12" className="middle visible-lg" >
