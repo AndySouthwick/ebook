@@ -70,18 +70,18 @@ class Landing extends Component{
                     <Row className="bar3">
                         <Col lg="6" className="">
                             <img src="./images/cmb2zh-librato-testimonial-man_02s02s02s02s000000.jpg" alt="" className="wrapText round alignleft"/>
-                            <b>Jonas Kent</b><br/>
+                            <b>Mike Jensen</b><br/>
 
-                           <i>Josh Bingham</i><br/>
+                           <i>Business Owner</i><br/>
 
-                            "Learn the indicators. If you do, you'll never have to worry about money."                        </Col>
+                            "This book helped me recognize some import aspects about trading that I didn't know before"
+                        </Col>
                         <Col lg="6">
                             <img src="./images/18sf4yd-librato-testimonial-woman.jpg" alt="" className="wrapText round alignleft" />
-                           <b>Jane Doe</b><br/>
+                           <b>Sarah Jenkins</b><br/>
 
-                            <i>CEO/Founder, GoodWork Inc.</i><br/>
-
-                            These guys are the best at what they do - they know their stuff. Just reading their various ebooks will be proof enough.
+                            <i>Personal Trainer</i><br/>
+                            "Being new to trading I didn't realize how important indicators are until now"
                         </Col>
                     </Row>
                     <Row className="bar4 justify-content-center">
