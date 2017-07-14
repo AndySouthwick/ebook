@@ -17,7 +17,7 @@ class Landing extends Component{
                 <Row className="justify-content-center firstbar">
                     <Col>
 
-                        <h1 className="landing-header" > <a href="/thanks">THanks</a>SEVEN DEVASTATING MISTAKES</h1>
+                        <h1 className="landing-header" >SEVEN DEVASTATING MISTAKES</h1>
                         <h2 className="center"><i >The guide that will teach you what you need to know about choosing indicators.</i></h2>
                         <hr/>
                     </Col>
