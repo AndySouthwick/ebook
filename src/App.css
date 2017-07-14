@@ -100,3 +100,6 @@ alignleft {
 .wrapText {
   shape-outside: circle();
 }
+.mymargin{
+  margin-top: 1em;
+}

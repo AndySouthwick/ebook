@@ -65,7 +65,7 @@ class Landing extends Component{
 
                 </Row>
                     <Row className="bar3 justify-content-center">
-                        <h2 className="bg-info">What some of our readers have to say</h2>
+                        <h2 className="bg-info mymargin">What some of our readers have to say</h2>
                     </Row>
                     <Row className="bar3">
                         <Col lg="6" className="">
