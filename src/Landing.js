@@ -28,11 +28,10 @@ class Landing extends Component{
                     <Col lg="4" xs="12" className="leftSide">
                         <h2> Why you need this book? </h2><hr/>
                         <ul>
-                            <li>Why ongoing support and training is critical</li>
-                            <li>Why most systems don't fit your financial ability</li>
+                            <li>Why ongoing help and training is critical to your trading success.</li>
+                            <li>You need precise indicators other wise you are gambling.</li>
                             <li>Clear entry and exit strategies</li>
-                            <li>Most systems are not specific to a traders needs</li>
-                            <li>Black Box and Robot Trading is a big mistake</li>
+\                            <li>Why Black Box and Robot Trading is a big mistake</li>
                         </ul>
                     </Col>
                     <Col lg="4" xs="12" className="middle visible-lg" >
